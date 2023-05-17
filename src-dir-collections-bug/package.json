@@ -6,6 +6,7 @@
     "dev": "astro dev",
     "start": "astro dev",
     "build": "astro build",
+    "ci": "astro check && tsc --noEmit",
     "preview": "astro preview",
     "astro": "astro"
   },
